@@ -3,7 +3,7 @@
   "name": "io.github.pipeworx-io/wipo-ipc",
   "title": "Wipo Ipc",
   "description": "WIPO IPCPUB (International Patent Classification) MCP",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "websiteUrl": "https://pipeworx.io/packs/wipo-ipc",
   "repository": {
     "url": "https://github.com/pipeworx-io/mcp-wipo-ipc",
